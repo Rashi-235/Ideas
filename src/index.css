@@ -1,0 +1,7 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.placeholder-bg-light::placeholder {
+  background-color: #f0f8ff; /* Very light blue background color */
+}
